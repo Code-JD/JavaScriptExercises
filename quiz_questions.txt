@@ -1,0 +1,18 @@
+1. What is javascript hoisting
+    Hoisting is where variables and function declarations are moved to the top of their scope before code execution.
+
+2. What is the order of operations in JavaScript
+    PEDMAS - Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
+
+3. How do you use conditionals in javascript?
+    When you want to perform different actions for different decisions.
+    Use "if" to specify a block of code to be executed, if a specified condition is true
+    Use "else" to specify a block of code to be executed, if the same condition is false
+    Use "else if" to specify a new condition to test, if the first condition is false
+    Use "switch" to specify many alternative blocks of code to be executed
+
+4. List 3 javascript datatypes
+    string, number, and boolean
+
+5.What is a Javascript array?
+    An array is a single variable that is used to store different elements

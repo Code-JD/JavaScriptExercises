@@ -1,0 +1,14 @@
+1. What is the difference between git fetch and git pull?
+    git fetch checks to see if there are any changes on the original, and git pull grabs a copy with those changes from the repo.
+2. What is a merge conflict?
+    When Git cannot automatically fix the different changes from two commits.
+3. What is the javascript Toggle function?
+    The toggle function alows you to set two different functions when you click on an element back and forth.
+4. What is onclick and what can we use it for?
+    We use it to execute code with users interact with the HTML elements.
+5. What are Javascript event listeners?
+    It is a procedure that waits for an event to occur, like clicking the mouse or pressing a key.
+6. What are query selectors?
+    This method returns the first element that matches a specified CSS selector in the Document.
+7. Explain the Differences Between the Window and Document for JavaScript Development
+    Window is the root level element in any web page, Document is the direct child of the Window object (DOM).

@@ -1,0 +1,4 @@
+js-generate
+cd into project
+run npm install
+npm start

@@ -1,0 +1,3 @@
+git stash
+git stash apply   to get it back
+git stash clear    to clear the list
